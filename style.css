@@ -24,3 +24,11 @@ h2 {
 .clock div {
     margin: 5px ;
 }
+/* styling for the clock span */
+.clock span{
+    width: 100px;
+    height: 80px;
+    background-color: slateblue;
+    opacity: 8;
+    color: white;
+}
