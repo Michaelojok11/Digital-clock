@@ -24,6 +24,7 @@ h2 {
 }
 .clock div {
     margin: 5px ;
+    position: relative;
 }
 /* styling for the clock span */
 .clock span{
@@ -46,5 +47,14 @@ h2 {
     background: darkblue;
     opacity: 0.8;
     background-size: cover;
+}
 
+/* styling the AM (ampm) */
+.clock #ampm {
+    bottom: 0;
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    background: green;
 }
