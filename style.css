@@ -6,7 +6,7 @@ body{
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url("https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG5hdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60");
+    background: url("clock.jpg");
     overflow: hidden;
 }
 
